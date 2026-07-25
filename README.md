@@ -31,9 +31,9 @@ SmartFolder, uygulama kısayollarınızı küçük ve kullanışlı masaüstü w
 
 ![SmartFolder desktop widget](images/smartfolder-widget.png)
 
-#### Drag and drop
+#### Open Widget View
 
-![SmartFolder drag and drop](images/smartfolder-drag-drop.png)
+![SmartFolder open view](images/smartfolder-open-view.png)
 
 ### Download
 
@@ -72,9 +72,9 @@ All product names, logos, and brands shown in the screenshots are property of th
 
 ![SmartFolder masaüstü widget](images/smartfolder-widget.png)
 
-#### Sürükle ve bırak
+#### Açık widget görünümü
 
-![SmartFolder sürükle bırak](images/smartfolder-drag-drop.png)
+![SmartFolder açık görünüm](images/smartfolder-open-view.png)
 
 ### İndirme
 
