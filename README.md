@@ -96,7 +96,7 @@ Ekran görüntülerindeki tüm ürün adları, logolar ve markalar ilgili sahipl
 
 ## Version
 
-Current version: `1.0.0 Free`
+Current version: `1.1 Free`
 
 ## License
 
